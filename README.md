@@ -4,5 +4,3 @@ I'm Sr.DevOps Engineer, Terraform Developer !!
 🌱 I’m currently learning programming.
 ⚡ Fun fact: Love Cars , FPS Games, Long Drives, Nature Enthusiast
 
-📕 Latest Blog Posts
-How to thrive in Chaos
